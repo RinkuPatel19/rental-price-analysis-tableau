@@ -38,22 +38,22 @@ Data Cleaning → Data Exploration → Visualization → Dashboard Creation → 
 ## Visualizations
 
 ### Average Rent by State
-<img src="average_rent_by_state.png" width="500">
+<img src="average_rent_by_state.jpg" width="500">
 
 ### Yearly Rent Variation in Michigan
-<img src="yearly_rent_variation_michigan.png" width="500">
+<img src="yearly_rent_variation_michigan.jpg" width="500">
 
 ### Average Rent per State in the USA (Map)
-<img src="rent_map_usa.png" width="500">
+<img src="rent_map_usa.jpg" width="500">
   
 ### Rent vs Population Rank (2017)
-<img src="rent_vs_population_2017.png" width="500">
+<img src="rent_vs_population_2017.jpg" width="500">
   
 ### Heat Map of Total Rent (USA)
-<img src="rent_heatmap_usa.png" width="500">
+<img src="rent_heatmap_usa.jpg" width="500">
 
 ### Dashboard Overview
-<img src="dashboard_overview.png" width="600">
+<img src="dashboard_overview.jpg" width="600">
 
 ## Key Insights
 - Washington, DC has the highest average rent (~$2,400/month)  
